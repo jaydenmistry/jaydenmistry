@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I’m Jayden Mistry
 
-<!--
-**jay6145/jay6145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Georgia building reliable
+full-stack applications and self-hosted infrastructure.
 
-Here are some ideas to get you started:
+- Currently building: distributed systems and production web applications
+- Stack: TypeScript, Python, Java, Go, React/Next.js, FastAPI, Docker, Linux
+- Interests: backend systems, DevOps, networking, and platform engineering
+- Email: jayden@jmistry.com
+- Portfolio: https://jmistry.com
+- LinkedIn: https://www.linkedin.com/in/jayden-mistry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+- **[Optimus Inventory Health Dashboard](https://github.com/jay6145/0ptimus.git)** — Full-stack dashboard for
+  stockout risk, anomaly detection, and transfer recommendations.
