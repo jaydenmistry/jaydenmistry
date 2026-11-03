@@ -19,7 +19,7 @@ A vehicle sourcing workspace for dealerships that I co-founded, now piloting wit
 A self-hosted app I built for my own internship search. It collects postings from several public sources, removes duplicates, ranks each one 0 to 100 against my profile, and tracks applications and networking. It runs on my home server behind Traefik as a web container and a scheduled worker.
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Docker`
 
-**[Optimus Inventory Health Dashboard](https://github.com/jaydenmistry/0ptimus)**
+**[Optimus Inventory Health Dashboard](https://github.com/jaydenmistry/optimus)**
 2nd place out of 150+ teams and an NCR Voyix track honorable mention at UGAHacks 11. I led a 3-person team building a dashboard that predicts stockouts, flags inventory anomalies, and recommends transfers between stores.
 `Next.js` `FastAPI` `SQLAlchemy` `SQLite` `Docker Compose`
 
